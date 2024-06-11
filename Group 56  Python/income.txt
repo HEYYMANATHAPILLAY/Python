@@ -1,0 +1,36 @@
+
+Receipt for: Nami
+Enrolled Subjects: Maths, English
+Payment Month: July
+Form Level: Form 4
+Payment Amount: 100.0 RM
+-------------------------
+July,Form 4,Maths, English,100.0
+Receipt for: Tomas
+Enrolled Subjects: English, Science
+Payment Month: April
+Form Level: Form 5
+Payment Amount: 90.0 RM
+-------------------------
+April,Form 5,English, Science,90.0
+Receipt for: HEYYMA
+Enrolled Subjects: MATHS
+Payment Month: JAN
+Form Level: FORM 5
+Payment Amount: 100.0 RM
+-------------------------
+JAN,FORM 5,MATHS,100.0
+Receipt for: HEYYMA
+Enrolled Subjects: MATHS
+Payment Month: MAY
+Form Level: FORM 5
+Payment Amount: 100.0 RM
+-------------------------
+MAY,FORM 5,MATHS,100.0
+Receipt for: NITHIYA KALYANI
+Enrolled Subjects: MATHS, BIOLOGY
+Payment Month: MAY
+Form Level: FORM 5
+Payment Amount: 110.0 RM
+-------------------------
+MAY,FORM 5,MATHS, BIOLOGY,110.0
